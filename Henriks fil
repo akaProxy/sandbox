@@ -1,0 +1,5 @@
+print "Henriks fina program in da house"
+henrik = henrik
+n = 0
+for letter in henrik:
+  print "Henrik är bäst, och python är näst bäst"
